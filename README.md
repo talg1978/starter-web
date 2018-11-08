@@ -17,4 +17,6 @@ bla 4
 ### Copyright
 blablablbal
 
+Oh shut up !
+
 Sample website with plenty of files for demos

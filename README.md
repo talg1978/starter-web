@@ -14,4 +14,7 @@ bla 4
 
 ## Deployment
 
+### Copyright
+blablablbal
+
 Sample website with plenty of files for demos

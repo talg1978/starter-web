@@ -4,6 +4,9 @@ This repository is for showing how Git and GitHub work
 
 blablablablbala
 
+another spot
+
+
 bla2
 
 bla3
